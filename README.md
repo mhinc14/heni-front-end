@@ -1,3 +1,11 @@
+# View the app here
+
+https://61d35d318ed74b0007f228ea--wonderful-wilson-70ee80.netlify.app/
+
+# Additional comments
+
+https://docs.google.com/document/d/1QQlgIKlW9IRXk5JRrTgjVEPzpcQaN2modXU8nJ1kFGc/edit?usp=sharing
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
